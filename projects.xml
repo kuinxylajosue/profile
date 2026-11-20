@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passionProjects>
+  <project id="1">
+    <title>My Culture</title>
+    <description>A short video on culture as something made through creative practice, not inherited, featuring my own artwork.</description>
+    <date>2026-10-03</date>
+    <link>https://youtu.be/ra48AGO7Ba8</link>
+  </project>
+  <project id="2">
+    <title>Critical Digital Literacies Portfolio Site</title>
+    <description>A Google Sites portfolio built for Critical Digital Literacies, organized around an Artifacts collection covering topics like digital persona, advocacy, and copyright and creative commons.</description>
+    <date>2026-02-22</date>
+    <link>https://sites.google.com/view/josuekuinxyla/home</link>
+  </project>
+  <project id="3">
+    <title>Bago Ang Pagsabog</title>
+    <description>A comic imagining an alternate ending to Jose Rizal's El Filibusterismo, created as the Final Course Output for Philippine Institutions 100.</description>
+    <date>2026-09-05</date>
+    <link>https://heyzine.com/flip-book/8c30d33b80.html</link>
+  </project>
+</passionProjects>
